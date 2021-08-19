@@ -1,0 +1,22 @@
+-----------------------------------------------------------
+             :: List Of Male Children ::
+-----------------------------------------------------------
+Record #1 Details:
+Name                : 1
+Date of Birth       : 1-1-1
+Gender              : Male
+Guardian name       : 1
+Contact no.         : 1
+Address             : 1
+
+-----------------------------------------------------------
+           :: List Of Female Children ::
+-----------------------------------------------------------
+ Display Status: No female records found
+
+-----------------------------------------------------------
+End of Record. 
+
+Total no of Male children : 1
+Total no of Female children : 0
+Total no of All children : 1

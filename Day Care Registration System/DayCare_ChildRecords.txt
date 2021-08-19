@@ -1,0 +1,52 @@
+-----------------------------------------------------------
+             :: List Of Male Children ::
+-----------------------------------------------------------
+Record #1 Details:
+Name                : Ajay Samuel
+Date of Birth       : 16-8-2000
+Gender              : Male
+Guardian name       : Seva
+Contact no.         : 0122222
+Address             : 212 Bukit Tembok 21 121 12
+
+Record #2 Details:
+Name                : Anil
+Date of Birth       : 17-4-1998
+Gender              : Male
+Guardian name       : Seva
+Contact no.         : 121212
+Address             : 212 1212 212 1 12
+
+Record #3 Details:
+Name                : Josiah
+Date of Birth       : 11-1-1
+Gender              : Male
+Guardian name       : 1
+Contact no.         : 1
+Address             : 1
+
+Record #4 Details:
+Name                : S
+Date of Birth       : 1-11-1
+Gender              : Male
+Guardian name       : 1
+Contact no.         : 1
+Address             : 1
+
+-----------------------------------------------------------
+           :: List Of Female Children ::
+-----------------------------------------------------------
+Record #1 Details:
+Name                : Sarah
+Date of Birth       : 12-12-1
+Gender              : Female
+Guardian name       : 12121
+Contact no.         : 1212
+Address             : Dadad
+
+-----------------------------------------------------------
+End of Record. 
+
+Total no of Male children : 4
+Total no of Female children : 1
+Total no of All children : 5

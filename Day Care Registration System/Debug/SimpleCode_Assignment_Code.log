@@ -1,0 +1,5 @@
+﻿  SimpleCode_Assignment(C)_CompleteCode.cpp
+C:\Users\winte\source\repos\SimpleCode_Assignment_Code\SimpleCode_Assignment(C)_CompleteCode.cpp(22): warning C4091: 'typedef ': ignored on left of 'DayCareSys::birthdate' when no variable is declared
+C:\Users\winte\source\repos\SimpleCode_Assignment_Code\SimpleCode_Assignment(C)_CompleteCode.cpp(34): warning C4091: 'typedef ': ignored on left of 'DayCareSys::kids' when no variable is declared
+C:\Users\winte\source\repos\SimpleCode_Assignment_Code\SimpleCode_Assignment(C)_CompleteCode.cpp(43): warning C4091: 'typedef ': ignored on left of 'DayCareSys::children' when no variable is declared
+  SimpleCode_Assignment_Code.vcxproj -> C:\Users\winte\source\repos\SimpleCode_Assignment_Code\Debug\SimpleCode_Assignment_Code.exe
