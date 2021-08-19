@@ -7,7 +7,7 @@
 using namespace std;
 
 /*
-	Subject: CSEB324 Data Structure& Algorithms
+	Subject: CSEB324 Data Structure & Algorithms
 	Project	 : Day Care Registration System 
 */
 
