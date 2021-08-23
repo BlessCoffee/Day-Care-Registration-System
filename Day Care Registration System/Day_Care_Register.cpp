@@ -9,6 +9,7 @@ using namespace std;
 /*
 	Subject: CSEB324 Data Structure & Algorithms
 	Project	 : Day Care Registration System 
+	Developers : Ajay Samuel Sevaram and AMIERUL REDZUAN BIN MOHD KAMAL
 */
 
 class DayCareSys {
